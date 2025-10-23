@@ -33,7 +33,7 @@
 |---------|------|-------------|------|
 | Blogify API | Node.js, Express, MongoDB | Full-stack Blog API with CRUD, pagination, analytics, and role-based auth | [GitHub](https://github.com/Hemant-kkr/Url-shortner-2.0) |
 | E-Commerce MERN | MongoDB, Express, React, Node | Industrial safety tools e-commerce app with cart, auth & admin dashboard | [GitHub](https://github.com/Hemant-kkr/Ecommerce) |
-| Code compiler | [GitHub](https://github.com/Hemant-kkr/compiler-project) |
+| Code compiler |HTML javascript CSS|Code Compiler Using Api| [GitHub](https://github.com/Hemant-kkr/compiler-project) |
 
 ---
 
